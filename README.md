@@ -21,6 +21,6 @@
 ---
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnsals6004)](https://solved.ac/wke1wke1)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnsals6004)](https://solved.ac/gnsals6004)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungHunYoon)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungHunYoon)](https://github.com/anuraghazra/github-readme-stats)
